@@ -8,10 +8,16 @@ author:
   headline: A PhD researcher in cognitive neuroscience at the BCBL (Spain).
   image: foto_carnet_2020.jpg
   links:
-    - cv:
+    - link:
+        href:
         icon: christmas-socks-svgrepo-com
         target: 
         text: My CV
+    - link:
+        href:
+        icon: christmas-socks-svgrepo-com
+        target: 
+        text: My PhD
     - link:
         href: projects/
         icon: 
