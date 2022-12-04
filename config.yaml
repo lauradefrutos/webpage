@@ -9,19 +9,17 @@ author:
   image: foto_carnet_2020.jpg
   links:
     - link:
-        href:
         icon: christmas-socks-svgrepo-com
         target: 
         text: My CV
     - link:
-        href:
         icon: christmas-socks-svgrepo-com
         target: 
         text: My PhD
-    - link:
-        href: projects/
+    - link: 
+        href: 2022-12-04-about-me/
         icon: 
-        target: _self
+        target: 
         text: Projects I'm working on
     - link:
         href: 2022-12-04-about-me/
