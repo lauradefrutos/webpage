@@ -10,9 +10,9 @@ module.exports = {
   darkMode: "media",
   theme: {
     colors: {
-      white: "#fff",
-      neutral: colors.gray,
-      primary: colors.purple,
+      white: colors.white,
+      neutral: colors.slate,
+      primary: colors.indigo,
     },
     extend: {
       typography: (theme) => ({
