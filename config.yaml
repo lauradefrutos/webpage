@@ -17,13 +17,14 @@ author:
         target: 
         text: My PhD
     - link: 
-        href: 2022-12-04-about-me/
+        href: 
         icon: 
         target: 
         text: Projects I'm working on
     - link:
-        href: 2022-12-04-about-me/
+        href: styles/
         icon: christmas-socks-svgrepo-com
+        target: _self
         text: About me
     - github:
         href: https://github.com/lauradefrutos
