@@ -11,11 +11,11 @@ author:
     - link:
         href: https://github.com/jpanther/lynx/blob/stable/README.md
         icon: github
-        text: View the readme
+        text: My CV
     - link:
         href: styles/
         target: _self
-        text: All the link styles
+        text: Projects I'm working on
     - github: https://github.com/lauradefrutos
     - twitter: https://twitter.com/laura3141592
   name: Hi! My name is Laura de Frutos-Sagastuy.
