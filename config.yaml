@@ -8,25 +8,32 @@ author:
   headline: A PhD researcher in cognitive neuroscience at the BCBL (Spain).
   image: foto_carnet_2020.jpg
   links:
-    - cv:
+    - link:
         icon: christmas-socks-svgrepo-com
-        target: post/
+        target: 
         text: My CV
     - link:
-        href: projects/
         icon: christmas-socks-svgrepo-com
-        target: _self
+        target: 
+        text: My PhD
+    - link: 
+        href: 2022-12-04-about-me/
+        icon: 
+        target: 
         text: Projects I'm working on
     - link:
-        href: 
-        icon:
+        href: 2022-12-04-about-me/
+        icon: christmas-socks-svgrepo-com
         text: About me
     - github:
         href: https://github.com/lauradefrutos
         text: Github 
     - twitter:
         href: https://twitter.com/laura3141592
-        text: Twitter
+        text: Personal Twitter
+    - twitter:
+        href: https://twitter.com/NeuroLang_BCBL
+        text: Neurobiology of language RG Twitter    
     - orcid:
         href: https://orcid.org/0000-0003-0027-3116
         text: ORCID

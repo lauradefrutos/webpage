@@ -8,4 +8,8 @@ tags: []
 description: ''
 ---
 
+<<<<<<< HEAD
 This is the about me page
+=======
+This is the about me page
+>>>>>>> 5741a2c8282de2953042ec025f41efcecb59086a
