@@ -14,12 +14,12 @@ author:
         text: My CV
     - link:
         href: projects/
-        icon: christmas-socks-svgrepo-com
+        icon: 
         target: _self
         text: Projects I'm working on
     - link:
-        href: 
-        icon: 2022-12-04-about-me
+        href: 2022-12-04-about-me
+        icon: christmas-socks-svgrepo-com
         text: About me
     - github:
         href: https://github.com/lauradefrutos
