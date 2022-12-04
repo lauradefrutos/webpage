@@ -23,13 +23,13 @@ author:
         icon:
         text: About me
     - github:
-        href = "https://github.com/lauradefrutos"
+        href = https://github.com/lauradefrutos
         text = "Github" 
     - twitter:
-        href = "https://twitter.com/laura3141592"
+        href = https://twitter.com/laura3141592
         text = "Twitter" 
     - orcid:
-        href = "https://orcid.org/0000-0003-0027-3116"
+        href = https://orcid.org/0000-0003-0027-3116
         text = "ORCID" 
   name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
