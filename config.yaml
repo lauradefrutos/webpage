@@ -1,0 +1,30 @@
+theme: lynx
+title: Lynx
+enableEmoji: yes
+disableKinds:
+  - taxonomy
+  - term
+author:
+  headline: A simple links theme for Hugo built with Tailwind CSS
+  image: author.jpg
+  links:
+    - link:
+        href: https://github.com/jpanther/lynx/blob/stable/README.md
+        icon: github
+        text: View the readme
+    - link:
+        href: styles/
+        target: _self
+        text: All the link styles
+    - github: https://github.com/jpanther/lynx
+    - twitter: https://twitter.com/jpanther
+    - font-awesome:
+        href: https://fontawesome.com/
+        text: FontAwesome
+  name: Lynx
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    noClasses: no
