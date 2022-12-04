@@ -10,7 +10,7 @@ author:
   links:
     - cv:
         icon: christmas-socks-svgrepo-com
-        target: webpage/content/post/2020-12-01-r-rmarkdown
+        target: post/
         text: My CV
     - link:
         href: projects/
