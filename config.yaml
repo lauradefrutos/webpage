@@ -9,22 +9,23 @@ author:
   image: foto_carnet_2020.jpg
   links:
     - link:
+        href: cv/
         icon: christmas-socks-svgrepo-com
         target: 
         text: My CV
     - link:
+        href: myphd/
         icon: christmas-socks-svgrepo-com
         target: 
         text: My PhD
     - link: 
-        href: 
+        href: myprojects/
         icon: 
         target: 
         text: Projects I'm working on
     - link:
-        href: aboutme.html
+        href: aboutme/
         icon: christmas-socks-svgrepo-com
-        target: _self
         text: About me
     - github:
         href: https://github.com/lauradefrutos
