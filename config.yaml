@@ -18,10 +18,10 @@ author:
         text: All the link styles
     - github: https://github.com/lauradefrutos
     - twitter: https://twitter.com/laura3141592
-    - font-awesome:
+    - new_link:
         href: https://fontawesome.com/
         text: FontAwesome
-  name: Hi! My name is Laura de Frutos-Sagastuy!
+  name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
   goldmark:
     renderer:
