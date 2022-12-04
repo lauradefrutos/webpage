@@ -22,7 +22,7 @@ author:
         target: 
         text: Projects I'm working on
     - link:
-        href: styles/
+        href: aboutme/
         icon: christmas-socks-svgrepo-com
         target: _self
         text: About me
