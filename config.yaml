@@ -18,7 +18,7 @@ author:
         target: _self
         text: Projects I'm working on
     - link:
-        href: https://github.com/lauradefrutos/webpage/blob/main/content/post/2022-12-04-about-me/index.Rmd
+        href: 2022-12-04-about-me/
         icon: christmas-socks-svgrepo-com
         text: About me
     - github:
