@@ -11,8 +11,8 @@ module.exports = {
   theme: {
     colors: {
       white: colors.white,
-      neutral: color.slate,
-      primary: color.indigo,
+      neutral: colors.slate,
+      primary: colors.indigo,
     },
     extend: {
       typography: (theme) => ({
