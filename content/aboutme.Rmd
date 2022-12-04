@@ -1,7 +1,8 @@
 ---
 title: "aboutme"
 author: "Laura de Frutos-Sagastuy"
-date: 2020-12-01T21:13:14-05:00
+cover: post/aboutme/san-sebastian_3.jpg
+date: 2022-12-04
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
