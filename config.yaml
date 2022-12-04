@@ -8,9 +8,13 @@ author:
   headline: A PhD researcher in cognitive neuroscience at the BCBL (Spain).
   image: foto_carnet_2020.jpg
   links:
-    - cv = { href = "https://fontawesome.com", text = "My CV" }
     - link:
-        href: styles/
+        href: cv/
+        icon: christmas-socks-svgrepo-com
+        target: _self
+        text: My CV
+    - link:
+        href: projects/
         icon: christmas-socks-svgrepo-com
         target: _self
         text: Projects I'm working on
@@ -18,10 +22,7 @@ author:
         href: 
         icon:
         text: About me
-    - link: 
-        href: https://github.com/lauradefrutos
-        icon: github
-        text: Github
+    - github = { href = "https://github.com/lauradefrutos", text = "Github" } 
     - twitter = { href = "https://twitter.com/laura3141592", text = "Twitter" } 
     - orcid = { href = "https://orcid.org/0000-0003-0027-3116", text = "ORCID" }
   name: Hi! My name is Laura de Frutos-Sagastuy.
