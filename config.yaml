@@ -10,13 +10,17 @@ author:
   links:
     - link:
         href: https://github.com/jpanther/lynx/blob/stable/README.md
-        icon: github
+        icon: christmass-hat-svgrepo-com
         text: My CV
     - link:
         href: styles/
+        icon: christmas-socks-svgrepo-com
         target: _self
         text: Projects I'm working on
-    - github: https://github.com/lauradefrutos
+    - link: 
+        href: https://github.com/lauradefrutos
+        icon:
+        text: Github
     - twitter: https://twitter.com/laura3141592
   name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
