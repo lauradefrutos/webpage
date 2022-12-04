@@ -128,7 +128,10 @@
 .link-youtube {
   background-color: #ff0000;
 }
-
+.link-cv {
+  background-color: #45d82c;
+  background: linear-gradient(120deg, #12990b, #45d82c);
+}
 /* -- Chroma Highlight -- */
 /* Background */
 .prose .chroma {
