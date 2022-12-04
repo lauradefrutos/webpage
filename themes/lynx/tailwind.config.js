@@ -11,8 +11,8 @@ module.exports = {
   theme: {
     colors: {
       white: "#fff",
-      neutral: colors.gray,
-      primary: colors.purple,
+      neutral: "#e1e1e1",
+      primary: "#fff",
     },
     extend: {
       typography: (theme) => ({
