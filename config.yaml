@@ -10,7 +10,7 @@ author:
   links:
     - cv:
         icon: christmas-socks-svgrepo-com
-        target: post/
+        target: 
         text: My CV
     - link:
         href: projects/
@@ -19,7 +19,7 @@ author:
         text: Projects I'm working on
     - link:
         href: 
-        icon:
+        icon: 2022-12-04-about-me
         text: About me
     - github:
         href: https://github.com/lauradefrutos
