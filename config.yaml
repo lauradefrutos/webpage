@@ -21,7 +21,7 @@ author:
     - font-awesome:
         href: https://fontawesome.com/
         text: FontAwesome
-  name: Lynx
+  name: Hi! My name is Laura de Frutos-Sagastuy!
 markup:
   goldmark:
     renderer:
