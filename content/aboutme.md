@@ -1,6 +1,6 @@
 # Is there life after science?
 
-![This is an image](MUSIC.png)
+![This is an image](assets/MUSIC.png)
 ## Music
 
 
