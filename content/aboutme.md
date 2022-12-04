@@ -1,6 +1,6 @@
 # Is there life after science?
 
-
+![This is an image](MUSIC.png)
 ## Music
 
 
@@ -12,4 +12,4 @@
 
 ## Cinema
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
