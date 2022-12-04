@@ -1,11 +1,11 @@
 theme: lynx
-title: Hi! My name is Laura de Frutos-Sagastuy!
+title: Hi!
 enableEmoji: yes
 disableKinds:
   - taxonomy
   - term
 author:
-  headline: A simple links theme for Hugo built with Tailwind CSS
+  headline: A PhD researcher in cognitive neuroscience at the BCBL (Spain).
   image: author.jpg
   links:
     - link:
