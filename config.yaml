@@ -25,10 +25,10 @@ author:
     - github:
         href = https://github.com/lauradefrutos
         text = "Github" 
-    - twitter:
+    - twitter1:
         href = https://twitter.com/laura3141592
         text = "Personal Twitter" 
-    - twitter:
+    - twitter2:
         href = https://twitter.com/NeuroLang_BCBL
         text: "Neurobiology of Language Twitter"
     - orcid:
