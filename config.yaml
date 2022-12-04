@@ -17,11 +17,22 @@ author:
         icon: christmas-socks-svgrepo-com
         target: _self
         text: Projects I'm working on
+    - link:
+        href: 
+        icon:
+        text: About me
     - link: 
         href: https://github.com/lauradefrutos
-        icon:
+        icon: github
         text: Github
-    - twitter: https://twitter.com/laura3141592
+    - link: 
+        href: https://twitter.com/laura3141592
+        icon: twitter
+        text: Twitter
+    - link:
+        href: https://orcid.org/0000-0003-0027-3116
+        icon: christmass-tree-svgrepo-com
+        text: ORCID
   name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
   goldmark:
