@@ -24,13 +24,13 @@ author:
         text: About me
     - github:
         href: https://github.com/lauradefrutos
-        text: "Github" 
+        text: Github 
     - twitter:
         href: https://twitter.com/laura3141592
-        text: "Twitter" 
+        text: Twitter
     - orcid:
         href: https://orcid.org/0000-0003-0027-3116
-        text: "ORCID" 
+        text: ORCID
   name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
   goldmark:
