@@ -1,5 +1,5 @@
 theme: lynx
-title: Hi!
+title: Welcome!
 enableEmoji: yes
 disableKinds:
   - taxonomy
@@ -22,7 +22,7 @@ author:
         target: 
         text: Projects I'm working on
     - link:
-        href: aboutme/
+        href: aboutme.html
         icon: christmas-socks-svgrepo-com
         target: _self
         text: About me
@@ -38,6 +38,9 @@ author:
     - orcid:
         href: https://orcid.org/0000-0003-0027-3116
         text: ORCID
+    - researchgate:
+        href: https://www.researchgate.net/profile/Laura-De-Frutos-Sagastuy
+        text: Research gate
   name: Hi! My name is Laura de Frutos-Sagastuy.
 markup:
   goldmark:
